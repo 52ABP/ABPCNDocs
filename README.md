@@ -2,7 +2,7 @@
 
 ---
 
-该文档发布在 https://52abp.com/Wiki/Index 上
+该文档发布在 https://www.52abp.com/Wiki/Index 上
 
 目前由站长-[梁桐铭](https://github.com/ltm0203)翻译整理而来
 
