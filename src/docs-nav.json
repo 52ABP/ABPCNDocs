@@ -252,7 +252,7 @@
                 },
                 {
                     "text": "集成EntityFrameworkMySql",
-                    "path": "9.4ABP基础设施层-集成EntityFrameworkMySql.md", "isNew": true
+                    "path": "9.4ABP基础设施层-集成EntityFrameworkMySql.md",  
                 },
                 {
                     "text": "EntityFrameworkCore集成MySql",
@@ -269,7 +269,7 @@
             "text": "Module Zero",
             "items": [
                 {
-                    "text": "组织单位",
+                    "text": "组织单元",
                     "path": "Organization-Units.md",
                     "isNew": true
                 },{
