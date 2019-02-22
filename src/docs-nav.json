@@ -267,11 +267,18 @@
             ]
         }, {
             "text": "Module Zero",
-            "items": [{
-                "text": "组织单位",
-                "path": "Organization-Units.md",
-                "isNew": true
-            }]
+            "items": [
+                {
+                    "text": "组织单位",
+                    "path": "Organization-Units.md",
+                    "isNew": true
+                },{
+                    "text": "角色管理",
+                    "path": "Role-Management.md",
+                    "isNew": true
+                },
+        
+        ]
         }
     ]
 }
