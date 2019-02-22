@@ -1,9 +1,7 @@
 {
-    "items": [
-        {
+    "items": [{
             "text": "总体介绍",
-            "items": [
-                {
+            "items": [{
                     "text": "入门介绍",
                     "path": "1.1ABP总体介绍-入门介绍.md"
                 },
@@ -35,8 +33,7 @@
         },
         {
             "text": "公共结构",
-            "items": [
-                {
+            "items": [{
                     "text": "依赖注入",
                     "path": "2.1ABP公共结构-依赖注入.md"
                 },
@@ -72,8 +69,7 @@
         },
         {
             "text": "领域层",
-            "items": [
-                {
+            "items": [{
                     "text": "实体",
                     "path": "3.1ABP领域层-实体.md"
                 },
@@ -109,8 +105,7 @@
         },
         {
             "text": "应用层",
-            "items": [
-                {
+            "items": [{
                     "text": "应用服务",
                     "path": "4.1ABP应用层-应用服务.md"
                 },
@@ -142,8 +137,7 @@
         },
         {
             "text": "分布式服务层",
-            "items": [
-                {
+            "items": [{
                     "text": "ASP.NET Web Api",
                     "path": "5.1ABP分布式服务-ASP.NETWebApi.md"
                 },
@@ -168,8 +162,7 @@
         },
         {
             "text": "ABP表现层",
-            "items": [
-                {
+            "items": [{
                     "text": "Mvc控制器",
                     "path": "6.1ABP表现层-Mvc控制器.md"
                 },
@@ -213,8 +206,7 @@
         },
         {
             "text": "后台服务",
-            "items": [
-                {
+            "items": [{
                     "text": "后台作业和工人",
                     "path": "7.1ABP后台服务-后台作业和工人.md"
                 },
@@ -230,8 +222,7 @@
         },
         {
             "text": "实时服务",
-            "items": [
-                {
+            "items": [{
                     "text": "通知系统",
                     "path": "8.1ABP实时服务-通知系统.md"
                 },
@@ -247,8 +238,7 @@
         },
         {
             "text": "基础设施层",
-            "items": [
-                {
+            "items": [{
                     "text": "集成EntityFramework",
                     "path": "9.1ABP基础设施层-集成EntityFramework.md"
                 },
@@ -262,13 +252,26 @@
                 },
                 {
                     "text": "集成EntityFrameworkMySql",
-                    "path": "9.4ABP基础设施层-集成EntityFrameworkMySql.md"
+                    "path": "9.4ABP基础设施层-集成EntityFrameworkMySql.md", "isNew": true
                 },
                 {
-                    "text": "集成Dapper",
-                    "path": "9.5ABP基础设施层-集成Dapper.md"
+                    "text": "EntityFrameworkCore集成MySql",
+                    "path": "EntityFramework-Core-MySql-Integration.md", "isNew": true
+                }, {
+                    "text": "EntityFrameworkCore集成PostgreSql",
+                    "path": "EF-Core-PostgreSql-Integration.md", "isNew": true
+                }, {
+                    "text": "EntityFrameworkCore集成Sqlite",
+                    "path": "EF-Core-Sqlite-Integration.md", "isNew": true
                 }
             ]
+        }, {
+            "text": "Module Zero",
+            "items": [{
+                "text": "组织单位",
+                "path": "Organization-Units.md",
+                "isNew": true
+            }]
         }
     ]
 }
