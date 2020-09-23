@@ -1,4 +1,13 @@
-## ASP .NET Boilerplate 文档
+# ASP .NET Boilerplate 中文文档
+
+
+镜像地址： http://code.52abp.com/52abp/ABPCNDocs
+
+码云地址：https://gitee.com/yoyocms/ABPCNDocs
+
+Github地址：https://github.com/52ABP/ABPCNDocs
+
+
 
 ---
 
